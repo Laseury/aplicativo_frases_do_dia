@@ -1,6 +1,6 @@
 # aplicativo_frases_do_dia
 
-A new Flutter application.
+Meu Segundo Programa.
 
 ## Getting Started
 
